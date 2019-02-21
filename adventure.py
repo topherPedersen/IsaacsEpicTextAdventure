@@ -4,7 +4,10 @@
 # Declare Variables Before Game Start
 instructions = """
 To play the game, type short phrases into the command line below. If you type the
-word
+word "look," the game gives you a description of your surroundings.  Typing
+"inventory" tells you what you're carrying.   "Get" "drop" and "throw" helps
+you interact with objects.  Part of the game is trying out different commands and
+seeing what happens.  Type "help" at any time for game instructions.
 """
 
 
